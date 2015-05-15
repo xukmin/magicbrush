@@ -1,0 +1,6 @@
+/bin/
+/test/
+/samples/sample-*.jpg
+*.class
+.DS_Store
+
