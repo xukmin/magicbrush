@@ -33,7 +33,7 @@ Screenshots
 
 **Grayscale**
 
-![](samples/sample-Grayscale.jpg)
+![](samples/sample-GrayScale.jpg)
 
 **Recolor**
 
@@ -51,6 +51,6 @@ Screenshots
 
 ![](samples/sample-UpsideDown.jpg)
 
-**Enhance**
+**Color Enhance**
 
-![](samples/sample-Enhance.jpg)
+![](samples/sample-ColorEnhance.jpg)
